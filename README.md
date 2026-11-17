@@ -63,7 +63,7 @@ docker build -t base-service .
 ### Run services
 
 ```shell
-docker-compose up -d
+docker compose up -d
 ```
 
 ## Available services
